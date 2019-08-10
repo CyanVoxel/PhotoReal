@@ -6,11 +6,7 @@
 ## YouTube Demo Link
 https://youtu.be/y-SPBTSgcIM
 
-## Final Walkthrough MileStone:
-
-<a href="https://youtu.be/y-SPBTSgcIM"> <img src="https://github.com/turboultralarge/PhotoReal/blob/master/PhotoReal%20Icon%20v3.png" width="100" height="100"/>
-
-## USER STORIES Ver - 1.0
+## USER STORIES v1.0
 
 ## Sprint 1 checklist 
 
@@ -35,3 +31,5 @@ https://youtu.be/y-SPBTSgcIM
  ![Alt text](https://github.com/turboultralarge/PhotoReal/blob/master/Screen%20Shot%202019-04-25%20at%204.13.57%20PM.png "TableView for Library")
  
  ![Alt text](https://github.com/turboultralarge/PhotoReal/blob/master/Screen%20Shot%202019-04-25%20at%204.13.46%20PM.png "Completed prototype screens")
+
+## Final Walkthrough Milestone: https://youtu.be/y-SPBTSgcIM
